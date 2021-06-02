@@ -1,0 +1,21 @@
+h1 {color: white; text-align: center;}
+
+img {
+  border: 6px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  width: 39%;
+}
+body {
+  background-image: url("Back .jpg");
+}
+table, th, td {
+  border: 2px solid black;
+}
+table {
+  margin: auto;
+  width: 60%;
+  background-color: white; color: blue; text-align: center;}
+
